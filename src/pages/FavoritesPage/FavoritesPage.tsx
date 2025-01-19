@@ -18,7 +18,7 @@ const FavoritesPage: React.FC = observer(() => {
         <div style={{ padding: 20 }}>
 
             {favoriteIds.length === 0 && (
-                <p>Нет избранных котиков.</p>
+                <p>Вы пока не добавили избранных котиков</p>
             )}
 
             <div
