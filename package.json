@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://artiebears13.github.io/frontend-challenge/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
