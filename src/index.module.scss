@@ -1,6 +1,7 @@
 
 @use './styles/variables';
 @use './styles/mixins';
+@import "normalize.css";
 
 html, body {
   margin: 0;
